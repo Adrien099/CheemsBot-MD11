@@ -16,22 +16,22 @@ global.sessionid ='ur session id'
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "India, West Bengal, Kolkata" //ur location
 
 //new
 global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
+global.ownernumber = '917439317360' //ur owner number
+global.ownername = '𝆺𝅥 𝇁 ֹ   𝄄  س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴  𓂃🪽' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.wagc = "https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.packname = ""
+global.author = "𝆺𝅥 𝇁 ֹ   𝄄  س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴  𓂃🪽"
+global.creator = "917439317360@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.premium = ["917439317360"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -48,9 +48,9 @@ global.groupevent = false //show update messages in group chat
 global.mess = {
 	limit: 'Your limit is up!',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
-    done: 'Done✓',
-    error: 'Error!',
-    success: 'Here you go!'
+    done: 'It's Done✓',
+    error: 'Baka, Error!',
+    success: 'Here you go senpai 🥰!'
 }
 //thumbnail
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
