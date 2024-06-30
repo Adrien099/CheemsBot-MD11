@@ -21,14 +21,14 @@ global.location = "India, West Bengal, Kolkata" //ur location
 //new
 global.botname = 'Cheems Bot MD V11' //ur bot name
 global.ownernumber = '917439317360' //ur owner number
-global.ownername = '𝆺𝅥 𝇁 ֹ   𝄄  س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴  𓂃🪽' //ur owner name
+global.ownername = '𝆺𝅥 𝇁 ֹ 𝄄  س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = ""
-global.author = "𝆺𝅥 𝇁 ֹ   𝄄  س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴  𓂃🪽"
+global.author = "𝆺𝅥 𝇁 ֹ 𝄄  س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣"
 global.creator = "917439317360@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["917439317360"] // Premium User
